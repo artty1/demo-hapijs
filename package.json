@@ -1,0 +1,28 @@
+{
+  "name": "demo-hapijs",
+  "version": "1.0.0",
+  "description": "demo hapi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "keywords": [
+    "hapi",
+    "js"
+  ],
+  "author": "artty",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^18.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artty1/demo-hapijs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/artty1/demo-hapijs/issues"
+  },
+  "homepage": "https://github.com/artty1/demo-hapijs#readme"
+}
